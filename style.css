@@ -1,0 +1,49 @@
+.index-body {
+    background-image: url('https://66.media.tumblr.com/c6ceec655068ffbddbbd7dc03d6aec58/tumblr_onw5m80dQ61w8x9jpo1_500.gifv');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+  }
+
+  .about-body {
+    background-image: url('https://i.makeagif.com/media/10-20-2015/ca_lQB.gif');
+    background-size: cover;
+  }  
+
+  a:visited{color:#FFF}
+
+  h1 {
+    color: #FFF;
+    font-size: 4em;
+    padding-top: 30px;
+    width: 100%;
+    font-family: Georgia;
+    text-align: center;
+  }
+
+  h2 {
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 100%;
+    color: #c3b8cc ;
+    font-size: 3em;
+    padding-top: 30px;
+    font-family: Georgia;
+  }
+  
+  .image {
+    width: 290px;
+    height: 290px;
+  }
+
+  .middle-text{
+    margin-right: 50px;
+    margin-left: 50px;
+  
+    color:#FFF;
+    line-height: 1.2em;
+    text-align: left;
+    width: 90%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
